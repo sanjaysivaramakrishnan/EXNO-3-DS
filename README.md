@@ -133,7 +133,6 @@ _= sm.qqplot(dt['Age_1'],line='45')
 
 
 # RESULT:
-
       Thus we perform Feature Encoding and Transformation process
 
        
